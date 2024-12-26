@@ -11,3 +11,5 @@ stanza
 Sastrawi
 sentence-transformers
 scikit-learn
+flair 
+flair[word-embeddings]
