@@ -1,0 +1,4 @@
+https://huggingface.co/bwbayu/Flair_POS_BERT_id
+https://huggingface.co/bwbayu/Flair_POS_BERT_Multi
+https://huggingface.co/bwbayu/Flair_POS_FastText_id
+https://huggingface.co/bwbayu/Flair_POS_FastText_Multi
